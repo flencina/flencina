@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flencina
-- 👀 I’m interested in programming, data science, microelectronics, automation, reneable energy
+- 👀 I’m interested in programming, data science, microelectronics, automation, renewable energy
 - 🌱 I’m currently learning data science, data analytics, python and Power BI 
 - 💞️ I’m looking to collaborate on solve data science problems
 - 📫 How to reach me ... 
