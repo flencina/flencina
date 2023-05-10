@@ -12,7 +12,7 @@ I am interested in astronomy, tecnology, music, wine and beer.
 - 💞️ I’m looking to collaborate on solve data science problems
 - 📫 How to reach me ... 
        email to: flaviodutra@hotmail.com , 
-       Linkedin: [Flavio Lencina][https://www.linkedin.com/in/flaviolencina]
+       Linkedin: [Flavio Lencina](https://www.linkedin.com/in/flaviolencina)
 
 ## Skills       
 - Electronics
