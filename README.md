@@ -11,15 +11,16 @@ I am interested in astronomy, tecnology, music, wine and beer.
 - 🌱 I’m currently learning data science, data analytics, python and Power BI 
 - 💞️ I’m looking to collaborate on solve data science problems
 - 📫 How to reach me ... 
-        email to: flaviodutra@hotmail.com, 
-        Linkedin: www.linkedin.com/in/flaviolencina
+       email to: flaviodutra@hotmail.com , 
+       Linkedin: [Flavio Lencina][https://www.linkedin.com/in/flaviolencina]
+
 ## Skills       
 - Electronics
 - Elecrical Project
 - CAD
 - Industrial Controllers and Networks
 - Linux
-- Programming langauges like: C/C++, Java, Python , Visual Basic, R
+- Programming langauges like: `C/C++`, `Java`, `Python` , `Visual Basic`, `R`
 - SQL and Database
 - BI and Analytics
 - Machine Learning 
