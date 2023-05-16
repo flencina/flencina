@@ -23,7 +23,13 @@ I am interested in astronomy, tecnology, music, wine and beer.
 - Programming langauges like: `C/C++`, `Java`, `Python` , `Visual Basic`, `R`
 - SQL and Database
 - BI and Analytics
-- Machine Learning 
+- Machine Learning
+
+## GitHub Project Repositories
+1. [Data Science Portfolio](https://github.com/flencina/Data_Science_Portifolio)
+
+
+![](https://img.shields.io/github/last-commit/flencina/Data_Science_Portifolio-)
 <!---
 flencina/flencina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
