@@ -26,7 +26,10 @@ I am interested in astronomy, tecnology, music, wine and beer.
 - Machine Learning
 
 ## GitHub Project Repositories
-1. [Data Science Portfolio](https://github.com/flencina/Data_Science_Portifolio)
+1. [Regression Models](https://github.com/flencina/Regression-Models)
+2. [Decision Tree Models]
+3. [PCA and SVMs]
+4. [Neural Networks]
 
 
 ![](https://img.shields.io/github/last-commit/flencina/Data_Science_Portifolio-)
